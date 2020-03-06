@@ -1,0 +1,14 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "dependencies": {
+    "chromedriver": "^80.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  }
+}
